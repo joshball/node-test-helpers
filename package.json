@@ -22,6 +22,7 @@
     "chai-as-promised": "^4.1.1",
     "contralog": "git://github.com/joshball/contralog.git",
     "json-stringify-safe": "^5.0.0",
+    "lab": "^5.1.0",
     "lodash": "^2.4.1",
     "sinon": "^1.12.1",
     "sinon-chai": "^2.6.0"
