@@ -1,0 +1,29 @@
+{
+  "name": "node-test-helpers",
+  "version": "1.0.0",
+  "description": "node-test-helpers\r =================",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshball/node-test-helpers.git"
+  },
+  "author": "Joshua Ball <joshua.g.s.ball@gmail.com> (https://github.com/joshball/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshball/node-test-helpers/issues"
+  },
+  "homepage": "https://github.com/joshball/node-test-helpers",
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "chai": "^1.10.0",
+    "chai-as-promised": "^4.1.1",
+    "contralog": "git://github.com/joshball/contralog.git",
+    "json-stringify-safe": "^5.0.0",
+    "lodash": "^2.4.1",
+    "sinon": "^1.12.1",
+    "sinon-chai": "^2.6.0"
+  }
+}
