@@ -23,6 +23,7 @@
     "contralog": "git://github.com/joshball/contralog.git",
     "json-stringify-safe": "^5.0.0",
     "lodash": "^2.4.1",
+    "mongoose": "^3.8.21",
     "sinon": "^1.12.1",
     "sinon-chai": "^2.6.0"
   }
